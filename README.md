@@ -1,6 +1,6 @@
 <h2>👋 Hello, Welcome to my profile. </h2>
 
-I'm a passionate **Machine Learning & Data Engineering Professional** with **4+ years** of experience delivering **end-to-end AI solutions**, from **data preprocessing** to **model deployment** on the cloud. I specialize in building **scalable, intelligent systems** that drive actionable insights and business value.
+I'm a passionate **Machine Learning & Data Engineering Professional** with **2+ years** of experience delivering **end-to-end AI solutions**, from **data preprocessing** to **model deployment** on the cloud. I specialize in building **scalable, intelligent systems** that drive actionable insights and business value.
 
 ---
 
