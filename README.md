@@ -22,19 +22,29 @@ I'm a passionate **Machine Learning & Data Engineering Professional** with **4+ 
   Proficient in **SQL**, with practical experience in **MongoDB**, and exposure to **Big Data ecosystems**.
 
 ---
+## ⚒️ Skills:
+
+<b> 🧑‍💻 Programming Languages: </b><br>
+Python | SQL | Spark
+
+<b> ⛓️ Distributed Framework: </b><br>
+Spark | Hadoop | Kafka 
+
+<b> 💾 Databases: </b><br>
+MySQL | MongoDB 
+
+<b> 🧬 Version Control: </b><br>
+Git 
+
+<b> ☁️ AWS Services: </b> <br>
+S3 | EC2 | EMR | RDS | Redshift | Glue | CloudWatch |
+ECS
+
+<b> 🚀 MLOps: </b><br>
+Docker | Docker Compose | GitHub Actions | MLflow
+
+<b> 🪄 ML Frameworks: </b><br>
+Pandas | Numpy | Sklearn | PySpark | Pytorch |
+Matplotlib | Seaborn | TFX
 
 📫 **Let’s connect and explore how data can transform ideas into reality.**
-
-**bhaveshmina23/bhaveshmina23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
