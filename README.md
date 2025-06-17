@@ -47,4 +47,8 @@ Docker | Docker Compose | GitHub Actions | MLflow
 Pandas | Numpy | Sklearn | PySpark | Pytorch |
 Matplotlib | Seaborn | TFX
 
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavesh-mina/) 
+
 📫 **Let’s connect and explore how data can transform ideas into reality.**
