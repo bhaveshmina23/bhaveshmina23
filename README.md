@@ -1,7 +1,7 @@
 <h2>👋 Hello, Welcome to my profile. </h2>
-I'm a driven and detail-oriented <b>Machine Learning & Data Engineering Professional</b> with 2+ years of experience in building intelligent systems, deploying end-to-end data projects, and leveraging advanced analytics to deliver impactful business solutions.
+I'm a driven and detail-oriented <b>Machine Learning & Data Engineering Professional</b> with 2+ years of experience in building intelligent systems, deploying end-to-end data projects, and leveraging advanced analytics to deliver impactful business solutions.<br>
 💡 Expertise:<br>
-In my journey as a Data & AI practitioner, I have developed deep technical acumen in the following areas:
+In my journey as a Data & AI practitioner, I have developed deep technical acumen in the following areas:<br>
 🔹 Programming & Data Analysis: I specialize in Python and its powerful data stack—Pandas, NumPy, and Statistics—to manipulate, analyze, and model data for meaningful insight generation. My data processing pipelines are both efficient and scalable.
 🔹 Data Visualization: I turn raw data into compelling narratives using libraries like Matplotlib, Seaborn, Plotly, and Bokeh. My dashboards and visual reports are designed to drive clear decision-making across technical and non-technical audiences.
 🔹 Machine Learning & Deep Learning: From classical ML models to Artificial Neural Networks (ANNs) and Convolutional Neural Networks (CNNs), I have built and deployed intelligent systems using TensorFlow, Keras, and Scikit-learn. I also apply Natural Language Processing (NLP) and work with Large Language Models (LLMs) to solve text-based challenges.
