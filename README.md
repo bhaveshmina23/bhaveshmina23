@@ -1,14 +1,30 @@
 <h2>👋 Hello, Welcome to my profile. </h2>
-I'm a driven and detail-oriented <b>Machine Learning & Data Engineering Professional</b> with 2+ years of experience in building intelligent systems, deploying end-to-end data projects, and leveraging advanced analytics to deliver impactful business solutions.<br>
-<h3>💡 Expertise:</h3><br>
-In my journey as a Data & AI practitioner, I have developed deep technical acumen in the following areas:<br>
-🔹 Programming & Data Analysis: I specialize in Python and its powerful data stack—Pandas, NumPy, and Statistics—to manipulate, analyze, and model data for meaningful insight generation. My data processing pipelines are both efficient and scalable.<br>
-🔹 Data Visualization: I turn raw data into compelling narratives using libraries like Matplotlib, Seaborn, Plotly, and Bokeh. My dashboards and visual reports are designed to drive clear decision-making across technical and non-technical audiences.<br>
-🔹 Machine Learning & Deep Learning: From classical ML models to Artificial Neural Networks (ANNs) and Convolutional Neural Networks (CNNs), I have built and deployed intelligent systems using TensorFlow, Keras, and Scikit-learn. I also apply Natural Language Processing (NLP) and work with Large Language Models (LLMs) to solve text-based challenges.<br>
-🔹 Web Development & Deployment: I use Flask to develop API-driven web applications and microservices. I’m experienced in containerization with Docker and deploying robust solutions on AWS Cloud, ensuring scalability and reliability in production environments.<br>
-🔹 Database & Big Data Technologies: I am proficient in SQL, and have hands-on experience working with NoSQL databases like MongoDB. I understand Big Data systems and am comfortable working with large-scale datasets in distributed computing environments.<br>
-🔹 End-to-End Project Lifecycle: From data ingestion and preprocessing to model building, evaluation, and deployment, I have executed multiple end-to-end machine learning and data engineering projects, aligning technical solutions with real-world business needs.<br>
-<!--
+
+I'm a passionate **Machine Learning & Data Engineering Professional** with **4+ years** of experience delivering **end-to-end AI solutions**, from **data preprocessing** to **model deployment** on the cloud. I specialize in building **scalable, intelligent systems** that drive actionable insights and business value.
+
+---
+
+## 💼 Core Expertise
+
+- **Programming & Data Handling:**  
+  Expert in **Python**, with advanced skills in **Pandas**, **NumPy**, and **Statistics** for data manipulation and analysis.
+
+- **Visualization:**  
+  Skilled in **Matplotlib**, **Seaborn**, **Plotly**, and **Bokeh** for creating interactive and insightful visualizations.
+
+- **Machine Learning & Deep Learning:**  
+  Hands-on experience with **Machine Learning**, **Artificial Neural Networks (ANNs)**, **Convolutional Neural Networks (CNNs)** using **TensorFlow** and **Keras**. Proficient in **Natural Language Processing (NLP)** and working with **Large Language Models (LLMs)**.
+
+- **Backend & Deployment:**  
+  Develop API-based services with **Flask**. Experienced in **Docker**, **AWS Cloud**, and **end-to-end project deployment** pipelines.
+
+- **Databases & Big Data:**  
+  Proficient in **SQL**, with practical experience in **MongoDB**, and exposure to **Big Data ecosystems**.
+
+---
+
+📫 **Let’s connect and explore how data can transform ideas into reality.**
+
 **bhaveshmina23/bhaveshmina23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
