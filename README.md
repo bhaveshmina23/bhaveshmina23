@@ -28,7 +28,7 @@ I'm a passionate **Machine Learning & Data Engineering Professional** with **2+ 
 Python | SQL | Spark
 
 <b> ⛓️ Distributed Framework: </b><br>
-Spark | Hadoop | Kafka 
+Spark | Kafka 
 
 <b> 💾 Databases: </b><br>
 MySQL | MongoDB 
